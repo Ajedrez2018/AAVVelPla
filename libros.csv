@@ -1,0 +1,51 @@
+ID,Título,Autor,Año,Categoría,Área,Ejemplares
+1,Libro de Infantil 1,Isidora Pardo Folch,1961,Infantil,Infantil y Juvenil,2
+2,Libro de Arte 2,Modesto Escribano-Expósito,2010,Arte,Arte y Cultura,1
+3,Libro de Arte 3,Isa del Gual,2006,Arte,Arte y Cultura,1
+4,Libro de Psicología 4,Andrés Felipe Cobos-Múgica,1981,Psicología,Ciencias Sociales y Humanidades,2
+5,Libro de Administración y empresa 5,Máximo Gascón Rojas,2023,Administración y empresa,Economía y Empresa,1
+6,Libro de Infantil 6,Jafet Mora,2014,Infantil,Infantil y Juvenil,3
+7,Libro de Juvenil 7,Amador Arsenio Infante Campos,1990,Juvenil,Infantil y Juvenil,3
+8,Libro de Ensayo 8,Josefa Vera Rovira,1991,Ensayo,Biografía y Documental,3
+9,Libro de Ciencia 9,Plinio Peláez-Busquets,1999,Ciencia,Ciencias y Tecnología,2
+10,Libro de Biografías / Autobiografías 10,Valentín Ortuño Corral,1963,Biografías / Autobiografías,Biografía y Documental,3
+11,Libro de Sociología 11,Ileana Polo-Calzada,1965,Sociología,Ciencias Sociales y Humanidades,1
+12,Libro de Economía 12,Edelmira Barrios-Vilalta,2011,Economía,Economía y Empresa,3
+13,Libro de Administración y empresa 13,Cristóbal Batalla Guardia,2018,Administración y empresa,Economía y Empresa,1
+14,Libro de Música 14,Lilia Blanco Luna,2015,Música,Arte y Cultura,1
+15,Libro de Cuentos 15,Lara Cervera Gisbert,1981,Cuentos,Infantil y Juvenil,3
+16,Libro de Tecnología / Informática 16,Cosme Luís Castañeda,1955,Tecnología / Informática,Ciencias y Tecnología,2
+17,Libro de Literatura clásica 17,Estefanía de Ayllón,2016,Literatura clásica,Literatura,1
+18,Libro de Psicología 18,Valeria Abellán Gallardo,2014,Psicología,Ciencias Sociales y Humanidades,2
+19,Libro de Psicología 19,Marciano Calleja Vicens,2019,Psicología,Ciencias Sociales y Humanidades,2
+20,Libro de Crónica / Testimonio 20,Natalio Mohamed Pinto Ferrán,2004,Crónica / Testimonio,Biografía y Documental,3
+21,Libro de Viajes / Geografía 21,Eloy Pera Casares,2022,Viajes / Geografía,Miscelánea,3
+22,Libro de Educación / Pedagogía 22,Rogelio Millán-Saavedra,2010,Educación / Pedagogía,Ciencias Sociales y Humanidades,1
+23,Libro de Economía 23,Valero Nieto,1964,Economía,Economía y Empresa,3
+24,Libro de Historia 24,María Pilar Perez-Ramos,1996,Historia,Ciencias Sociales y Humanidades,2
+25,Libro de Economía 25,Aníbal Gonzalez Paredes,2017,Economía,Economía y Empresa,3
+26,Libro de Finanzas 26,Flavia Esteban Torres,2022,Finanzas,Economía y Empresa,2
+27,Libro de Literatura clásica 27,María Cristina Daza Alfonso,1992,Literatura clásica,Literatura,3
+28,Libro de Teatro 28,Pepito Campos-Manzanares,1997,Teatro,Literatura,1
+29,Libro de Economía 29,Pepito Pedro Paniagua,2006,Economía,Economía y Empresa,1
+30,Libro de Teatro 30,Isidora Carrasco Fernandez,1953,Teatro,Literatura,1
+31,Libro de Fantasía 31,Apolonia Ribera,2020,Fantasía,Literatura,1
+32,Libro de Poesía 32,Eliana Buendía Diego,2016,Poesía,Literatura,1
+33,Libro de Educación / Pedagogía 33,Delia Arce Márquez,2001,Educación / Pedagogía,Ciencias Sociales y Humanidades,1
+34,Libro de Fantasía 34,Jacinta Fortuny Jódar,1966,Fantasía,Literatura,2
+35,Libro de Educación / Pedagogía 35,Felisa Rosales Villalonga,1958,Educación / Pedagogía,Ciencias Sociales y Humanidades,1
+36,Libro de Psicología 36,Santiago Durán Lloret,1981,Psicología,Ciencias Sociales y Humanidades,1
+37,Libro de Ciencia ficción 37,Carlota Boix Uría,2021,Ciencia ficción,Literatura,1
+38,Libro de Manualidades / Hobbies 38,Custodio Castelló Osuna,2023,Manualidades / Hobbies,Miscelánea,1
+39,Libro de Viajes / Geografía 39,Marcio Alegria Machado,1961,Viajes / Geografía,Miscelánea,2
+40,Libro de Economía 40,Lorenzo del Rosa,1978,Economía,Economía y Empresa,2
+41,Libro de Música 41,Amílcar Álvaro,1955,Música,Arte y Cultura,3
+42,Libro de Administración y empresa 42,Regina de Arias,1989,Administración y empresa,Economía y Empresa,1
+43,Libro de Juvenil 43,Iris del Pont,1994,Juvenil,Infantil y Juvenil,1
+44,Libro de Gastronomía 44,Ana Chita Company Abascal,2021,Gastronomía,Miscelánea,3
+45,Libro de Ciencia 45,Ignacio Quevedo Bartolomé,1967,Ciencia,Ciencias y Tecnología,3
+46,Libro de Filosofía 46,Geraldo Pons Baró,1950,Filosofía,Ciencias Sociales y Humanidades,3
+47,Libro de Poesía 47,Florencio Velasco-Pino,2003,Poesía,Literatura,2
+48,Libro de Salud y bienestar 48,Custodia Amaya Perera,1987,Salud y bienestar,Ciencias y Tecnología,1
+49,Libro de Ciencia 49,Anacleto Mate,2006,Ciencia,Ciencias y Tecnología,1
+50,Libro de Medio ambiente 50,María Dolores Marisol Vazquez Tello,1957,Medio ambiente,Ciencias y Tecnología,2
