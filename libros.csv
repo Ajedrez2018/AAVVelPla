@@ -1,0 +1,51 @@
+ID,Título,Autor,Año,Categoría,Área,Ejemplares
+1,Libro de Infantil 1,Jose Manuel del Vigil,1988,Infantil,Infantil y Juvenil,1
+2,Libro de Autoayuda 2,Encarna Isabel Acedo Asensio,1989,Autoayuda,Miscelánea,1
+3,Libro de Derecho / Legislación 3,Aitana de Querol,2002,Derecho / Legislación,Ciencias Sociales y Humanidades,2
+4,Libro de Cine / Fotografía 4,Valeria Guadalupe Ferreras Belmonte,2020,Cine / Fotografía,Arte y Cultura,1
+5,Libro de Manualidades / Hobbies 5,Morena Ana Belén Bermejo Huertas,1995,Manualidades / Hobbies,Miscelánea,2
+6,Libro de Ciencia ficción 6,Sigfrido Trujillo,2006,Ciencia ficción,Literatura,2
+7,Libro de Teatro 7,Perlita Acero Díaz,1995,Teatro,Literatura,2
+8,Libro de Gastronomía 8,Bernardino Taboada Corominas,2021,Gastronomía,Miscelánea,1
+9,Libro de Derecho / Legislación 9,Yago Bustos-Codina,1975,Derecho / Legislación,Ciencias Sociales y Humanidades,3
+10,Libro de Ensayo 10,Diana Mendez Dueñas,1975,Ensayo,Biografía y Documental,3
+11,Libro de Sociología 11,Luis Ángel Gargallo Coca,2009,Sociología,Ciencias Sociales y Humanidades,3
+12,Libro de Ciencia ficción 12,Verónica Paloma Pulido Rosa,1967,Ciencia ficción,Literatura,3
+13,Libro de Manualidades / Hobbies 13,Luciana Gil-Guerrero,2004,Manualidades / Hobbies,Miscelánea,2
+14,Libro de Teatro 14,Adolfo de Aramburu,2001,Teatro,Literatura,2
+15,Libro de Salud y bienestar 15,Luís Anguita Pizarro,1973,Salud y bienestar,Ciencias y Tecnología,2
+16,Libro de Derecho / Legislación 16,Venceslás Valero Vendrell,1982,Derecho / Legislación,Ciencias Sociales y Humanidades,3
+17,Libro de Economía 17,Tatiana del Guardiola,1984,Economía,Economía y Empresa,3
+18,Libro de Gastronomía 18,Cruz Atilio Nieto Cárdenas,2000,Gastronomía,Miscelánea,1
+19,Libro de Biografías / Autobiografías 19,Maura Aparicio Pascual,1959,Biografías / Autobiografías,Biografía y Documental,1
+20,Libro de Ficción 20,Josefa Caparrós-Losa,2004,Ficción,Literatura,3
+21,Libro de Administración y empresa 21,Chus Hurtado Campoy,1950,Administración y empresa,Economía y Empresa,3
+22,Libro de Viajes / Geografía 22,Azucena Canals Español,1977,Viajes / Geografía,Miscelánea,1
+23,Libro de Viajes / Geografía 23,Bartolomé Nogués Badía,2005,Viajes / Geografía,Miscelánea,3
+24,Libro de Tecnología / Informática 24,Eli Rojas Murillo,2016,Tecnología / Informática,Ciencias y Tecnología,1
+25,Libro de Derecho / Legislación 25,Vinicio Leiva Villalba,1986,Derecho / Legislación,Ciencias Sociales y Humanidades,2
+26,Libro de Fantasía 26,Manuelita Trillo Mulet,2005,Fantasía,Literatura,2
+27,Libro de Ciencia ficción 27,Paulino Lerma Guillén,1957,Ciencia ficción,Literatura,3
+28,Libro de Sociología 28,José Iker Álvarez Corominas,1987,Sociología,Ciencias Sociales y Humanidades,3
+29,Libro de Economía 29,Jeremías Canet Ferrán,2012,Economía,Economía y Empresa,3
+30,Libro de Literatura clásica 30,Beatriz Murcia Montes,1975,Literatura clásica,Literatura,3
+31,Libro de Filosofía 31,Ciríaco Heras,2019,Filosofía,Ciencias Sociales y Humanidades,3
+32,Libro de Cine / Fotografía 32,Ana Sofía Tania Alvarez Morata,2018,Cine / Fotografía,Arte y Cultura,1
+33,Libro de Historia 33,Sandalio Ibáñez-Madrid,2017,Historia,Ciencias Sociales y Humanidades,2
+34,Libro de Administración y empresa 34,Caridad Morcillo,2022,Administración y empresa,Economía y Empresa,3
+35,Libro de Arte 35,Hortensia Canet Martinez,1954,Arte,Arte y Cultura,1
+36,Libro de Biografías / Autobiografías 36,Dorita Quiroga-Hidalgo,2000,Biografías / Autobiografías,Biografía y Documental,1
+37,Libro de Tecnología / Informática 37,Isidora Jaén Franch,2018,Tecnología / Informática,Ciencias y Tecnología,2
+38,Libro de Economía 38,Bernarda Cabrera Arias,1953,Economía,Economía y Empresa,2
+39,Libro de Fantasía 39,Heraclio Céspedes Velasco,1970,Fantasía,Literatura,1
+40,Libro de Educación / Pedagogía 40,Fanny Sandra Navarrete Valencia,1950,Educación / Pedagogía,Ciencias Sociales y Humanidades,2
+41,Libro de Biografías / Autobiografías 41,Marciano Botella Montalbán,1952,Biografías / Autobiografías,Biografía y Documental,3
+42,Libro de Tecnología / Informática 42,Francisco Jose Montalbán Castrillo,1958,Tecnología / Informática,Ciencias y Tecnología,3
+43,Libro de Manualidades / Hobbies 43,Lázaro Saavedra Pascual,1977,Manualidades / Hobbies,Miscelánea,2
+44,Libro de Poesía 44,Lidia Valenzuela Buendía,2002,Poesía,Literatura,2
+45,Libro de Tecnología / Informática 45,Enrique Cervera,2012,Tecnología / Informática,Ciencias y Tecnología,2
+46,Libro de Gastronomía 46,Teobaldo Garcia Rivas,2023,Gastronomía,Miscelánea,2
+47,Libro de Ensayo 47,Salomón Milla,1970,Ensayo,Biografía y Documental,3
+48,Libro de Ciencia 48,Valero Rafael Pedrosa Adán,2000,Ciencia,Ciencias y Tecnología,3
+49,Libro de Biografías / Autobiografías 49,Javier Leandro Cañete Baños,2020,Biografías / Autobiografías,Biografía y Documental,1
+50,Libro de Infantil 50,Bernarda Sainz Julián,2001,Infantil,Infantil y Juvenil,3
